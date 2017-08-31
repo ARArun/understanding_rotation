@@ -1,5 +1,5 @@
 function init()
-    robot.wheels.set_velocity(1,-1)
+    robot.wheels.set_velocity(-1,1)
 end
 
 function step()
