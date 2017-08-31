@@ -3,6 +3,7 @@ function init()
 end
 
 function step()
+    log(robot.positioning.orientation.angle)
 end
 function reset()
 end

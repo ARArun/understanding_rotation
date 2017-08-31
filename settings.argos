@@ -53,7 +53,7 @@
 
         <!-- Robots -->
         <foot-bot id="receive-fb">
-            <body position="0,0,0" orientation="0,0,0" />
+            <body position="0,0,0" orientation="270,0,0" />
             <controller config="contr" />
         </foot-bot>
 </arena>
